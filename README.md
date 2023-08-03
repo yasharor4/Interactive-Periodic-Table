@@ -1,4 +1,4 @@
-# Interactive Periodic Table
+# PyTable
 
 This Python project generates an interactive GUI representation of the Periodic Table of Elements. When clicked, each element provides a detailed list of its properties and a link to its respective Wikipedia page.
 
